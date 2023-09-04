@@ -1,4 +1,4 @@
-# WeatherStatistics in C++
+# WeatherStatistics
 
 ## Description
 
@@ -16,6 +16,10 @@ The `WeatherStatistics` project is a C++ application that collects and analyzes 
 
 ![C++](https://img.shields.io/badge/language-C++-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)
+![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+
 
 ## Setup and Compilation
 
